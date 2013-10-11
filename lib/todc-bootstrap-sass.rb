@@ -46,4 +46,4 @@ module Todc
   end
 end
 
-Bootstrap::Google::Sass.load!
+Todc::Bootstrap::Sass.load!
